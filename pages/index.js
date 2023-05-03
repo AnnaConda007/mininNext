@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import Head from 'next/head'
-import {MainLayout} from '/components/mainLayout'
+import MainLayout from '/components/mainLayout'
 
 export default function Index() {
     return (

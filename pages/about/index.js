@@ -1,4 +1,4 @@
-import { MainLayout } from '/components/mainLayout'
+import  MainLayout  from '/components/mainLayout'
 import Router from 'next/router'
 export default function About() {
     return (

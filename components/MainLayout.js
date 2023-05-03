@@ -1,5 +1,5 @@
 import Link from 'next/link'
-export   function MainLayout({children}){
+export  default function MainLayout({children}){
     return(
         <>
         <nav>
